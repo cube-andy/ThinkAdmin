@@ -28,7 +28,7 @@
 *  前台配置路由规则
 *  ......
 
-##项目地址
+## 项目地址
 Github:[https://github.com/cnsecer/ThinkAdmin](https://github.com/cnsecer/ThinkAdmin) 
 
 OSChina: [http://git.oschina.net/cnsecer/ThinkAdmin](http://git.oschina.net/cnsecer/ThinkAdmin)
